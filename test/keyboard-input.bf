@@ -47,7 +47,6 @@ ptr: 2
   >>
   ptr: 4
   ,
-  .
 
   move 3 to 5 and 6
   <
